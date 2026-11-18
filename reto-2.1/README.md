@@ -15,6 +15,3 @@ Proyecto simple basado en `ejercicio-2`: se usan `_physics_process()` para el so
 **GitHub (parte de la rubrica):** colocar la carpeta `reto-2.1` en el repositorio y ejecutar:
 
 git del repositorio https://github.com/Pafiv/Videojuegos_36870.git
-
-
-La publicacion en GitHub debe hacerse desde tu cuenta. No se ha ejecutado Godot en este entorno.
