@@ -1,6 +1,6 @@
 # Reto 2.1 - Panel de controles
 
-Proyecto simple basado en `ejercicio-2`: se usan `_physics_process()` para el sondeo y `_input()` para eventos.
+Proyecto basado en `ejercicio-2`: se usan `_physics_process()` para el sondeo y `_input()` para eventos.
 
 **Abrir:** importar `project.godot` en Godot 4.7.2, abrir `main.tscn` y pulsar F6.
 
